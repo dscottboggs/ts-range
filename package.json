@@ -1,0 +1,9 @@
+{
+  "name": "@dscottboggs/range",
+  "version": "1.0.0",
+  "description": "A simple range iterator implementation. Supports incrementing, decrementing, and infinite ranges.",
+  "main": "index.ts",
+  "repository": "https://github.com/dscottboggs/ts-range.git",
+  "author": "D. Scott Boggs <scott@tams.tech>",
+  "license": "MIT"
+}
